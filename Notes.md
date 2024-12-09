@@ -19,7 +19,9 @@ description: 'Description of your new file.'
  mintlify dev --port 3333
 ```
 
-ローカルサーバーが起動するのでブラウザで http://localhost:3333 を開きます
+ローカルサーバーが起動するのでブラウザで http://localhost:3333 を開きます。
+
+
 
 
 
