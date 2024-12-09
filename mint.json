@@ -54,6 +54,7 @@
       "pages": [
         "home",
         "my note",
+        "help"
         "introduction",
         "quickstart",
         "development"
