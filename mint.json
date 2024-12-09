@@ -52,8 +52,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "home",
         "my note",
+        "introduction",
         "quickstart",
         "development"
       ]
