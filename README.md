@@ -95,6 +95,3 @@ Install our Github App to auto propagate changes from your repo to your deployme
 
 
 
-
-
-> ローカル環境では \`\`\`mintlify dev --port 3333\`\`\` でインスタンス（サーバー）を立ち上げてプレビューします
