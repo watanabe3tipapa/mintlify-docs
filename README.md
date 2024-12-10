@@ -41,9 +41,9 @@ mintlify dev --port 3333
 👍 以上でドキュメント（コンテンツ）を新規作成しWEB公開できます。  
 😊 是非お試しください。
 
-なお、このリポジトリには公開コンテンツを./mintlify-docs内に格納しています。
+なお、このリポジトリには公開コンテンツを ./mintlify-docs に格納しています。
 サイト構成やファイル配置の参考にしてください。
-
+最初に'mint.json'を学びましょう。
 
 
 公開URL：https://watanabe3ti.mintlify.app/
@@ -91,7 +91,10 @@ Install our Github App to auto propagate changes from your repo to your deployme
 
 * Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
 
-* Page loads as a 404 - Make sure you are running in a folder with `mint.jso`
+* Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+
+---
+
 
 
 
